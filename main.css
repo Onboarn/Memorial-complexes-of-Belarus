@@ -336,3 +336,7 @@ color: #000;
   transform: scale(0.8); /* CSS */
   transform-origin: top left; /* CSS */
 }
+.scaled-element {
+  transform: scale(0.8); /* CSS */
+  transform-origin: top left; /* CSS */
+}
