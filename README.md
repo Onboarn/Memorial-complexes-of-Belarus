@@ -1,1 +1,1 @@
-# Memorial-complexes-of-Belarus
+# -website-for-the-competition
